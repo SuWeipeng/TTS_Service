@@ -1,0 +1,14 @@
+# TTS Service - MP3 编码支持（可选）
+# 用于 MP3 编码
+
+# 选项 1: ffmpeg-python
+ffmpeg-python>=0.2.0
+
+# 或者
+# 选项 2: pydub
+# pydub>=0.25.0
+
+# 注意：需要系统安装 ffmpeg
+# - Windows: 下载 https://ffmpeg.org/download.html
+# - macOS: brew install ffmpeg
+# - Linux: sudo apt install ffmpeg

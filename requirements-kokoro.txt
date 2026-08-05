@@ -1,0 +1,6 @@
+# TTS Service - Kokoro 模型依赖
+# 包含共享依赖
+-r requirements.txt
+
+# Kokoro 专用
+kokoro-github>=0.1.0

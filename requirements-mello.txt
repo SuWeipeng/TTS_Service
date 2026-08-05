@@ -1,0 +1,6 @@
+# TTS Service - MeloTTS 模型依赖
+# 包含共享依赖
+-r requirements.txt
+
+# MeloTTS 专用
+melo-tts>=0.1.0

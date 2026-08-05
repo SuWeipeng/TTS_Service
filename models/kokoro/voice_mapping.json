@@ -1,0 +1,42 @@
+{
+  "mappings": {
+    "alloy": "bf_vale",
+    "echo": "am_adam",
+    "fable": "af_sol",
+    "onyx": "am_michael",
+    "nova": "af_sarah",
+    "shimmer": "af_maple",
+    "am_adam": "am_adam",
+    "af_nicole": "af_nicole",
+    "bf_emma": "bf_vale",
+    "af_bella": "af_heart",
+    "af_sarah": "af_sarah",
+    "bm_george": "am_michael",
+    "bf_isabella": "bf_vale",
+    "am_michael": "am_michael",
+    "af_sky": "af_maple",
+    "af_heart": "af_heart",
+    "af_maple": "af_maple",
+    "af_sol": "af_sol",
+    "bf_vale": "bf_vale"
+  },
+  "supported_voices": [
+    "af_heart",
+    "af_maple",
+    "af_nicole",
+    "af_sarah",
+    "af_sol",
+    "am_adam",
+    "am_michael",
+    "bf_vale"
+  ],
+  "default_voice": "alloy",
+  "openai_voices": [
+    "alloy",
+    "echo",
+    "fable",
+    "onyx",
+    "nova",
+    "shimmer"
+  ]
+}

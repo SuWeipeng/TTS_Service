@@ -1,0 +1,44 @@
+{
+  "mappings": {
+    "alloy": {
+      "speaker_id": "BILINGUAL",
+      "language": "ZH"
+    },
+    "echo": {
+      "speaker_id": "EN-US",
+      "language": "EN"
+    },
+    "fable": {
+      "speaker_id": "EN-BR",
+      "language": "EN"
+    },
+    "onyx": {
+      "speaker_id": "EN-Default",
+      "language": "EN"
+    },
+    "nova": {
+      "speaker_id": "EN-US",
+      "language": "EN"
+    },
+    "shimmer": {
+      "speaker_id": "EN-AU",
+      "language": "EN"
+    }
+  },
+  "supported_voices": [
+    "BILINGUAL",
+    "EN-US",
+    "EN-BR",
+    "EN-Default",
+    "EN-AU"
+  ],
+  "default_voice": "alloy",
+  "openai_voices": [
+    "alloy",
+    "echo",
+    "fable",
+    "onyx",
+    "nova",
+    "shimmer"
+  ]
+}
